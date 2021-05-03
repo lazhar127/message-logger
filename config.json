@@ -1,0 +1,12 @@
+{
+    "userconfig": {
+        "token": "",
+        "id": "",
+        "prefix": "."
+    },
+
+    "botconfig": {
+        "footer": "demon's logger",
+        "autosnipe": "on"
+    }
+}
